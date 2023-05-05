@@ -8,6 +8,7 @@
             <p>This is my cooking website.</p>
         <h2>Here you will be able to learn how to bake many delicious treats.</h2>
             <p>BROWNIE RECIPE</p>
+        <img src="https://thestayathomechef.com/wp-content/uploads/2021/01/Best-Brownies-1-1.jpg">
         <h3>Ingredients</h3>    
         <ul>10 tablespoons salted butter melted</ul>
         <ul>1 cup granulated sugar</ul>
@@ -20,9 +21,16 @@
         <ul>1 cup milk chocolate chips</ul>
         <h4>Instructions</h4>
         <ol>Preheat oven to 350 degrees F. Line a metal 9x9 pan with parchment paper.</ol>
+        <ol>Pour melted butter into a large mixing bowl. Whisk in sugar by hand until smooth, 30 seconds.</ol>
+        <ol>Add in eggs and vanilla extract. Whisk 1 minute.</ol>
+        <ol>Whisk in melted chocolate until combined and smooth.</ol>
+        <ol>Use a rubber spatula to stir in flour, cocoa powder, and salt until just combined. Stir in whole chocolate chips.</ol>
+        <ol>Pour into prepared pan and smooth out.</ol>
+        <ol>Bake in the preheated oven for 30 minutes. Let cool in pan 30 minutes before slicing.</ol>
             </p>
         <img src="https://www.allrecipes.com/thmb/0E-gdRzAZOlIRBWUFFb-ZGyy8L0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4462051-c6bce2d3fab6426db79ad4d31a2f8c50.jpg">
         <h5>CHOCOLATE CHIP COOKIE RECIPE</h5>
+        <h6><font size="+3"Ingredients</font></font></h6>
         <ul> Butter: This classic chocolate chip cookie recipe starts with two sticks of butter creamed with white and brown sugars. The blend of sugars creates a perfectly balanced flavor.</ul> 
         <ul> Eggs: Eggs add moisture and act as a binding agent, which means they help hold the dough together.</ul>
         <ul>Vanilla: Vanilla extract enhances the overall flavor of the chocolate chip cookies.</ul>
@@ -31,5 +39,11 @@
         <ul>Salt: A pinch of salt enhances the flavors of the other ingredients, but it won't make the cookies taste salty.</ul>
         <ul>Flour: All-purpose flour helps create gluten, which adds structure to the cookie dough.</ul>
         <ul>Chocolate chips: Of course, you'll need semisweet chocolate chips! You can use dark or milk chocolate chips if you prefer.</ul>
+        <h7>Instructions</h6></h9>
+        <ol>Beat the butter and sugars, then beat in the eggs and vanilla.</ol>
+        <ol>Dissolve the baking soda in hot water and add to the mixture.</ol>
+        <ol>Stir in the flour and chocolate chips,</ol>
+        <ol>Drop dough onto a prepared baking sheet.</ol>
+        <ol>Bake until the edges are golden brown.</ol>
     </body>
 </html>
